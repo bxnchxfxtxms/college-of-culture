@@ -1,0 +1,10 @@
+.chairs__card-list {
+  display: grid;
+  justify-content: center;
+  width: 100%;
+  grid-template-columns: repeat(3, 350px);
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  gap: 20px;
+}

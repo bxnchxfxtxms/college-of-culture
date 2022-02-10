@@ -1,0 +1,20 @@
+.chairs__card-link {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: white;
+  height: 200px;
+  width: 350px;
+  margin: 0;
+  position: relative;
+  justify-content: center;
+  background: rgba(0, 0, 0, 1);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.chairs__card-link:hover .chairs__card-image {
+  transform: scale(1.1);
+  transition: 3s linear;
+  border-radius: 10px;
+}

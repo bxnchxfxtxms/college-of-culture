@@ -1,0 +1,14 @@
+@import url(../vendor/normalize.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/nav-menu/nav-menu.css);
+@import url(../blocks/nav-menu/__menu-container/nav-menu__menu-container.css);
+@import url(../blocks/nav-menu/__item/nav-menu__item.css);
+@import url(../blocks/nav-menu/__link/nav-menu__link.css);
+@import url(../blocks/nav-menu/__link/_name/nav-menu__link_name_college.css);
+@import url(../blocks/nav-menu/__submenu-container/nav-menu__submenu-container.css);
+@import url(../blocks/nav-menu/__submenu-block/nav-menu__submenu-block.css);
+@import url(../blocks/nav-menu/__submenu-column/nav-menu__submenu-column.css);
+
+

@@ -1,0 +1,13 @@
+.header__title {
+  font-size: 16px;
+  line-height: 125%;
+  margin: 0 0 0 10px;
+  max-width: 250px;
+}
+
+@media screen and (max-width: 950px) {
+  .header__title {
+    font-size: 3vw;
+    max-width: max-content;
+  }
+}

@@ -1,0 +1,7 @@
+.header__nav-menu-item {
+  margin: 0 10px 0 0;
+}
+
+.header__nav-menu-item:last-child {
+  margin: 0;
+}

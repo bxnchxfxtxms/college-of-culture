@@ -1,0 +1,10 @@
+.header__nav-menu {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 950px) {
+  .header__nav-menu {
+    margin-top: 14px;
+  }
+}

@@ -1,0 +1,7 @@
+.chairs__background {
+  display: flex;
+  background-repeat: no-repeat;
+  background-image: url(../../images/header-logo.svg);
+  background-position: center;
+  background-size: cover;
+}

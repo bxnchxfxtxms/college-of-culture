@@ -1,0 +1,7 @@
+.nav-menu__link_name_college {
+  color: brown;
+}
+
+.nav-menu__item:hover .nav-menu__submenu-container {
+  display: block;
+}
