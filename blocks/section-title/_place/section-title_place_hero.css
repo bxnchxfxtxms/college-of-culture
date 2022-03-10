@@ -1,0 +1,10 @@
+.section-title_place_hero {
+  margin: 0;
+  color: #fff;
+  font-size: 80px;
+  font-weight: 900;
+  text-shadow: 5px 5px 10px black;
+  text-transform: none;
+  letter-spacing: normal;
+  border-bottom: none;
+}

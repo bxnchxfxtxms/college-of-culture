@@ -1,0 +1,9 @@
+.cards__bottom-bar {
+  display: flex;
+  min-height: 80px;
+  z-index: 3;
+  background: white;
+  justify-items: center;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,9 @@
+.cards__bottom-bar_place_news {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-areas:
+    "title title"
+    "article article"
+    "date link";
+}

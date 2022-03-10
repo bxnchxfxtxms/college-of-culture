@@ -1,5 +1,6 @@
 .logo {
   width: 100px;
+  filter: brightness(0) invert(1);
 }
 
 @media screen and (max-width: 950px) {

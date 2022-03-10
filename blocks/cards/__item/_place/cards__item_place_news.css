@@ -1,0 +1,4 @@
+.cards__item_place_news {
+  display: grid;
+  grid-template-rows: 400px 200px;
+}

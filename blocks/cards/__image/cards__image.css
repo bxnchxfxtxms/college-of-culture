@@ -1,0 +1,11 @@
+.cards__image {
+  display: flex;
+  transform: scale(1);
+  transition: .3s linear;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+
+

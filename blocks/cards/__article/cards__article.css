@@ -1,0 +1,13 @@
+.cards__article {
+  background: white;
+  grid-area: article;
+  margin: 0;
+  display: -webkit-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  padding: 0 35px;
+  font-size: 13px;
+
+}

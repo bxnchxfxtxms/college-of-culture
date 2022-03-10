@@ -3,7 +3,8 @@
   align-items: center;
   justify-content: space-between;
   width: 95%;
-  padding-top: 30px; 
+  padding: 20px 0; 
+  position: absolute;
 }
 
 @media screen and (max-width: 950px) {
