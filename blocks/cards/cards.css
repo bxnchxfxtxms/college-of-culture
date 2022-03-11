@@ -8,3 +8,9 @@
   margin: 0;
   gap: 30px 20px;
 }
+
+@media screen and (max-width: 480px) {
+  .cards {
+    grid-template-columns: repeat(1, 350px);
+  }
+}
