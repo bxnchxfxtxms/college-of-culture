@@ -8,3 +8,9 @@
   letter-spacing: normal;
   border-bottom: none;
 }
+
+@media screen and (max-width: 480px) {
+  .section-title_place_hero {
+    font-size: 30px;
+  }
+}
